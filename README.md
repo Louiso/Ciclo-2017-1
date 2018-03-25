@@ -1,1 +1,3 @@
-# Ciclo-2017-1
+# IA
+
+buscar en Aprendiendo/Multicapa/Dinamica
