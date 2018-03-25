@@ -1,0 +1,8 @@
+1) Entrenar una red neuronal no lineal para modelar un sistema no lineal
+	Validar con otras entradas.
+
+2) Entrenar una red neuronal lineal para modelar un sistema no lineal
+	Validar para otras entradas.
+	
+3) Entrenar una red neuronal lineal para modelar un sistema lineal
+	Validar para otras entradas.
